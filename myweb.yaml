@@ -29,7 +29,7 @@ metadata:
   name: myweb
 spec:
   ports:
-  - nodePort: 31469
+  - nodePort: 31355
     port: 80
     protocol: TCP
     targetPort: 80
